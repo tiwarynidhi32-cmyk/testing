@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Final: new: Gastro Plus Hospital",
+  "description": "Next-Generation Hospital Management System (HMS) for clinical, administrative, and financial operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
